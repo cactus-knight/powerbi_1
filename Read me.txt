@@ -1,0 +1,15 @@
+Data visualization based on AdventureWorks Database
+
+-Pbit is the Power BI template
+
+-Pbix is the whole file which includes data, model and report
+
+-Following is the link to the dashboard on Power BI website
+
+https://bit.ly/34BZYUY
+
+
+======In all cases, Power BI account is required.
+
+Thanks,
+Modasher.
